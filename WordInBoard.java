@@ -1,7 +1,3 @@
-package com.guidewire.wordy.impl;
-
-import com.guidewire.wordy.IBoard;
-import com.guidewire.wordy.IWordInBoardValidator;
 
 public class WordInBoardValidatorImpl implements IWordInBoardValidator {
 
